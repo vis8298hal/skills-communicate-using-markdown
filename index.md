@@ -15,3 +15,9 @@ b = input("Enter Value 2 : ")
 c = a + b
 print(f"The sum of {a} & {b} is {c}")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Add a Pull Request
+- [ ] Add changes to pull request
+- [ ] commit the changes
