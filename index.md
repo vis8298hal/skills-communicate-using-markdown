@@ -1,4 +1,3 @@
-<center>
   
 # Header for Markdown Tutorials
 
@@ -23,4 +22,4 @@ print(f"The sum of {a} & {b} is {c}")
 - [ ] Add a Pull Request
 - [ ] Add changes to pull request
 - [ ] commit the changes
-</center>
+
